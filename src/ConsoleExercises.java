@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class ConsoleExercises {
     public static void main(String[] args) {
-//        int userInput;
+        int userInput;
         Scanner scan = new Scanner(System.in);
 
         System.out.println("Please enter a number.");
